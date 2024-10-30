@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Anass Rahou
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: comment-limiter/includes/class-comment-limiter-settings.php:155
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: comment-limiter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-16 00:02-0500\n"
+"PO-Revision-Date: 2019-11-16 00:02-0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: comment-limiter/comment-limiter.php:49
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:98
+#: comment-limiter/includes/class-comment-limiter-settings.php:99
+#: comment-limiter/includes/class-comment-limiter-settings.php:124
+msgid "Comment Limiter"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:132
+msgid "Save Comments Changes"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:162
+msgid "Maximum Characters Number"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:174
+msgid "Maximum Message Error"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:186
+msgid "Minimum Characters Number"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:198
+msgid "MInimum Message Error"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:210
+msgid "Apply Settings to Admins"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:234
+msgid "Invalid lengths. Please insert logical values."
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:240
+msgid "Maximum message error"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:248
+msgid "Minimum message error"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:266
+msgid "Comment Limiter settings saved correctly."
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:298
+#: comment-limiter/includes/class-comment-limiter-settings.php:310
+msgid "Comment Limiter Error"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:330
+#: comment-limiter/includes/class-comment-limiter-settings.php:358
+msgid "Accepts only numbers"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:344
+msgid ""
+"This is the error message that will be displayed to the user when the "
+"comment length is more than the maximum value indicated above."
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:372
+msgid ""
+"This is the error message that will be displayed to the user when the "
+"comment length is less than the minimum value indicated above."
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:386
+msgid "No"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:387
+msgid "Yes"
+msgstr ""
+
+#: comment-limiter/includes/class-comment-limiter-settings.php:389
+msgid ""
+"This will allows users with administrator capabilities to publish comments "
+"despite the configuration of Comment Limiter plugin."
+msgstr ""
